@@ -1,0 +1,5 @@
+rootProject.name = 'builderstask2'
+
+include 'db'
+include 'service'
+include 'api'
